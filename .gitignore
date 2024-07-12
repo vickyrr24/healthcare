@@ -2,3 +2,6 @@
 /target
 *.log
 /.mvn
+/.vscode
+mvnw
+mvnw.cmd
